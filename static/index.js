@@ -187,7 +187,7 @@
     w.gameTime = function() {
         _gameTimeNum--;
         if (_gameTimeNum <= 0) {
-            GameTimeLayer.innerHTML = '衝蝦啦！！！';
+            GameTimeLayer.innerHTML = '5ma💙';
             gameOver();
             GameLayerBG.className += ' flash';
             createjs.Sound.play("end");
