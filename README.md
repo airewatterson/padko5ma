@@ -1,6 +1,6 @@
 # Padko5ma
 
-<a href="https://airewatterson.github.io/tgm3Bonk/" title="衝蝦啦"><img src="https://media.discordapp.net/attachments/899978435210919976/938318938176106526/avatar_user.png" width="120px">
+<a href="https://airewatterson.github.io/padko5ma/" title="衝蝦啦"><img src="https://media.discordapp.net/attachments/899978435210919976/938318938176106526/avatar_user.png" width="120px">
 
 這是應油蛇們的要求修改的版本。
 ---
